@@ -1,0 +1,9 @@
+# 确保不排除重要数据和字体文件
+!gsalc.csv
+!times.ttf
+
+.venv
+.idea
+figures
+models
+log
